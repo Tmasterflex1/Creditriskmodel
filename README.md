@@ -39,7 +39,7 @@ Note: You may commit and push whenever you want to back up your changes, even if
 
 •  Submit a copy of the Git repository URL and a copy of the repository branch history retrieved from your repository, which must include the commit messages and dates.
 
-![Screenshot 2024-08-21 134619](https://github.com/user-attachments/assets/31af1688-60e9-4d1d-9aa9-b18be46b29a0)
+
 
 Note: Wait until you have completed all the following prompts before you create your copy of the repository branch history.
 
@@ -50,18 +50,19 @@ B.  Create a README file that includes notes describing where in the code to fin
 C.  Customize the HTML user interface for your customer’s application. The user interface should include the shop name, the product names, and the names of the parts.
 
 ![Screenshot 2024-08-21 134619](https://github.com/user-attachments/assets/31af1688-60e9-4d1d-9aa9-b18be46b29a0)
-
-
-Note: Do not remove any elements that were included in the screen. You may add any additional elements you would like or any images, colors, and styles, although it is not required.
+![Screenshot 2024-08-21 134554](https://github.com/user-attachments/assets/57eb651e-f2b6-4afa-a3c6-c76094da2503)
 
 
 D.  Add an “About” page to the application to describe your chosen customer’s company to web viewers and include navigation to and from the “About” page and the main screen.
+
+![Screenshot 2024-08-22 232122](https://github.com/user-attachments/assets/47c3bd47-1238-4b6f-82f3-3060efee6682)
+![Screenshot 2024-08-22 232150](https://github.com/user-attachments/assets/036a9d15-e63a-41a0-8fe5-c9657bda068b)
 
 
 E.  Add a sample inventory appropriate for your chosen store to the application. You should have five parts and five products in your sample inventory and should not overwrite existing data in the database.
 
 
-Note: Make sure the sample inventory is added only when both the part and product lists are empty. When adding the sample inventory appropriate for the store, the inventory is stored in a set so duplicate items cannot be added to your products. When duplicate items are added, make a “multi-pack” part.
+
 
 
 F.  Add a “Buy Now” button to your product list. Your “Buy Now” button must meet each of the following parameters:
